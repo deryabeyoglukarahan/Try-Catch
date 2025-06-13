@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/bin/Debug/net8.0/Try-Catch
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/bin/Debug/net8.0/Try-Catch.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/bin/Debug/net8.0/Try-Catch.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/bin/Debug/net8.0/Try-Catch.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/bin/Debug/net8.0/Try-Catch.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/refint/Try-Catch.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/Try-Catch.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Try-Catch/obj/Debug/net8.0/ref/Try-Catch.dll
